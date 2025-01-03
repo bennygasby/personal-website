@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 751d9d22-03b6-4a30-a43e-594eb29ef1dd
+      url: 'https://benedettagasbarra.netlify.app'
