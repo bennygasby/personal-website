@@ -1,0 +1,11 @@
+---
+title: "A.A. Liberal Arts: Social and Behavioral Science"
+format: html
+about:
+  template: marquee
+  image: AABehSci.png
+
+toc: false
+---
+
+I earned an Associate of Arts (A.A.) degree in June 2023, in Liberal Arts: Social and Human Behavioral Science from Santa Monica College. This academic achievement reflects my strong interest in understanding the complexities of human behavior and social interactions. While my studies emphasized the social sciences, I am equally passionate about the natural sciences, particularly biology. My curiosity about the intricacies of life and the natural world drives my commitment to interdisciplinary learning, combining insights from both social and biological sciences to deepen my understanding and contribute meaningfully to these fields.

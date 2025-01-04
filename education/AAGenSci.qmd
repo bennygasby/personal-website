@@ -1,0 +1,12 @@
+---
+title: "A.A. General Science"
+format: html
+about:
+  template: marquee
+  image: AAGenSci.png
+
+toc: false
+---
+
+I earned an Associate of Arts (A.A.) degree in General Science in June 2021, from Santa Monica College, where I cultivated a strong foundation in various scientific disciplines. This achievement reflects my deep passion for science, particularly biology, which has always been a subject of great interest to me. My academic journey has been driven by curiosity and a desire to understand the natural world, and I am committed to further expanding my knowledge in these fields. This dedication to science continues to inspire my academic and professional pursuits.
+

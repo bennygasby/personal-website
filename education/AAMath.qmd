@@ -1,0 +1,12 @@
+---
+title: "A.A. Mathematics"
+format: html
+about:
+  template: marquee
+  image: pic_2.jpg
+
+toc: false
+---
+
+I earned an Associate of Arts (A.A.) degree in Mathematics, in January 2025, from Santa Monica College, reflecting my strong passion for science and a particular fascination with mathematics. Mathematics has always been a subject that inspires and challenges me, fueling my curiosity about the logical structures that underpin the natural world. My enthusiasm for the subject extends beyond academics; I have the privilege of sharing my knowledge by teaching mathematics at the Russian School of Mathematics, an after-school program dedicated to fostering mathematical excellence in students. This experience has deepened my appreciation for the transformative power of education and the beauty of mathematical thinking, reinforcing my commitment to both learning and teaching.
+

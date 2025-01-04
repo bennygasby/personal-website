@@ -1,24 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Languages",
+    "section": "",
+    "text": "A.A. General Science\n\n\n\n\n\n\n\n\n\n\nA.A. Liberal Arts: Social and Behavioral Science\n\n\n\n\n\n\n\n\n\n\nA.A. Mathematics\n\n\n\n\n\n\n\n\n\n\nCertificate of Achievement for the California State University General Education\n\n\n\n\n\n\n\n\n\n\nLanguage Proficiencies and Skills:\n\n\n\n\n\n\n\n\n\n\nB.A. Statistics and Data Science\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
     "title": "Benedetta Gasbarra",
     "section": "",
-    "text": "Hello!\nI’m Benedetta, but I like to go by Benny!\nI am a proud fourth-year undergraduate student at UCLA, majoring in Statistics & Data Science. Alongside my primary field of study, I also hold three associate degrees in General Science, Human and Social Behavioral Science, and Mathematics, reflecting my diverse passions and dedication to learning.\n\nCurriculum Vitae\nInterested in learning more about me? Feel free to download my CV below!\nDOWNLOAD cv\n\n\nEducation\n\nSanta Monica College\nA.A. General Science, June 2021\nA.A. Human and Social Behavioral Science, June 2023\nA.A. Mathematics, January 2025\n\n\nUCLA\nB.A. Statistics and Data Science in progress with expected graduation June 2025\n\n\n\nWork\n\nRussian School Of Mathematics\nTeaching position, June 2023 - current \n\n\nSelfEmployed, Santa Monica\nPrivate Tutor and Coach For Gifted Students, November 2021- Current"
+    "text": "AI Research Project\n\n\n\n\n\n\n\n\n\n\nBias in AI Research Project\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/project_2.html",
-    "href": "projects/project_2.html",
-    "title": "Bias in AI Research Project",
+    "objectID": "education/AAMath.html",
+    "href": "education/AAMath.html",
+    "title": "A.A. Mathematics",
     "section": "",
-    "text": "Independent Research supervised by UCLA Faculty\ndata analytics, October 2024 - current\n\n\nResearch Overview\nI am conducting research to evaluate decision-making processes in law enforcement and artificial intelligence, with a focus on understanding potential biases. This study aims to compare how law enforcement professionals and an AI system analyze fictional criminal case files, assessing decision accuracy, confidence, and underlying biases while maintaining a controlled and neutral study environment.\nParticipants, including law enforcement professionals such as police officers and detectives, review anonymized fictional case files featuring varied suspect demographics. Simultaneously, a specialized AI system analyzes the same cases under identical conditions. Both human participants and the AI are tasked with identifying the most likely suspect and assigning confidence scores to their decisions, with all case files randomized to minimize order effects.\nTo ensure unbiased behavior, the study conceals its focus on bias, presenting itself as an evaluation of decision-making tools and strategies. Statistical analysis will compare human and AI performance, focusing on differences in suspect selection and confidence while examining how factors such as demographic variables influence decisions.\nThis research explores the broader implications of integrating AI in decision-making processes, particularly in high-stakes fields like law enforcement. By identifying patterns of bias and assessing the potential of AI to reduce such biases, this study aims to contribute to fairer and more accurate decision-making frameworks, bridging the gap between human expertise and technological innovation."
+    "text": "I earned an Associate of Arts (A.A.) degree in Mathematics, in January 2025, from Santa Monica College, reflecting my strong passion for science and a particular fascination with mathematics. Mathematics has always been a subject that inspires and challenges me, fueling my curiosity about the logical structures that underpin the natural world. My enthusiasm for the subject extends beyond academics; I have the privilege of sharing my knowledge by teaching mathematics at the Russian School of Mathematics, an after-school program dedicated to fostering mathematical excellence in students. This experience has deepened my appreciation for the transformative power of education and the beauty of mathematical thinking, reinforcing my commitment to both learning and teaching."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
+    "objectID": "education/Certificate.html",
+    "href": "education/Certificate.html",
+    "title": "Certificate of Achievement for the California State University General Education",
     "section": "",
-    "text": "Relevant courses taken: \n\nMATH 115A: Linear Algebra\nMATH 33B: Differential Equations\nSTATS 20: Introduction to Statistical Programming with R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiments\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R\nSTATS 102B: Introduction to Computation and Optimization\nSTATS 102C: Monte Carlo Methods\nSTATS C183: Statistical Models in Finance"
+    "text": "I earned a Certificate of Achievement for the California State University General Education from Santa Monica College, in June 2022, an accomplishment that reflects my passion for learning and my commitment to academic growth. This certificate has allowed me to explore a wide range of subjects, fostering a deep appreciation for interdisciplinary connections and a well-rounded education. The knowledge and perspectives I gained have significantly enriched my understanding of the world and directly complement my current studies in statistics. I am particularly passionate about statistics because of its broad applicability across disciplines, enabling me to connect my diverse interests and contribute meaningfully to solving real-world problems. This foundation continues to inspire my academic and professional journey."
+  },
+  {
+    "objectID": "education/UCLA.html",
+    "href": "education/UCLA.html",
+    "title": "B.A. Statistics and Data Science",
+    "section": "",
+    "text": "I am currently pursuing studies in statistics and data science, fields that ignite my passion for uncovering insights and solving complex problems. With a deep interest in the power of data to inform decision-making, I am eager to apply my statistical expertise to real-world challenges. My goal is to transition this knowledge into practical applications, particularly as a consultant, where I can help businesses and organizations leverage data-driven strategies for growth and innovation. I am dedicated to continuous learning and excited about the opportunity to make meaningful contributions through analytical thinking and impactful solutions."
   },
   {
     "objectID": "projects/project_1.html",
@@ -28,10 +42,38 @@
     "text": "Independent Research supervised by UCLA Faculty\ndata analytics, October 2024 - current\n\n\nResearch Overview\nI am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.\nThe research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.\nBeyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.\nThis research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy."
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Relevant courses taken: \n\nMATH 115A: Linear Algebra\nMATH 33B: Differential Equations\nSTATS 20: Introduction to Statistical Programming with R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiments\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R\nSTATS 102B: Introduction to Computation and Optimization\nSTATS 102C: Monte Carlo Methods\nSTATS C183: Statistical Models in Finance"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Bias in AI Research Project",
+    "section": "",
+    "text": "Independent Research supervised by UCLA Faculty\ndata analytics, January 2025 - current\n\n\nResearch Overview\nI am conducting research to evaluate decision-making processes in law enforcement and artificial intelligence, with a focus on understanding potential biases. This study aims to compare how law enforcement professionals and an AI system analyze fictional criminal case files, assessing decision accuracy, confidence, and underlying biases while maintaining a controlled and neutral study environment.\nParticipants, including law enforcement professionals such as police officers and detectives, review anonymized fictional case files featuring varied suspect demographics. Simultaneously, a specialized AI system analyzes the same cases under identical conditions. Both human participants and the AI are tasked with identifying the most likely suspect and assigning confidence scores to their decisions, with all case files randomized to minimize order effects.\nTo ensure unbiased behavior, the study conceals its focus on bias, presenting itself as an evaluation of decision-making tools and strategies. Statistical analysis will compare human and AI performance, focusing on differences in suspect selection and confidence while examining how factors such as demographic variables influence decisions.\nThis research explores the broader implications of integrating AI in decision-making processes, particularly in high-stakes fields like law enforcement. By identifying patterns of bias and assessing the potential of AI to reduce such biases, this study aims to contribute to fairer and more accurate decision-making frameworks, bridging the gap between human expertise and technological innovation."
+  },
+  {
+    "objectID": "education/AAGenSci.html",
+    "href": "education/AAGenSci.html",
+    "title": "A.A. General Science",
+    "section": "",
+    "text": "I earned an Associate of Arts (A.A.) degree in General Science in June 2021, from Santa Monica College, where I cultivated a strong foundation in various scientific disciplines. This achievement reflects my deep passion for science, particularly biology, which has always been a subject of great interest to me. My academic journey has been driven by curiosity and a desire to understand the natural world, and I am committed to further expanding my knowledge in these fields. This dedication to science continues to inspire my academic and professional pursuits."
+  },
+  {
+    "objectID": "education/AAHumSci.html",
+    "href": "education/AAHumSci.html",
+    "title": "A.A. Liberal Arts: Social and Behavioral Science",
+    "section": "",
+    "text": "I earned an Associate of Arts (A.A.) degree in June 2023, in Liberal Arts: Social and Human Behavioral Science from Santa Monica College. This academic achievement reflects my strong interest in understanding the complexities of human behavior and social interactions. While my studies emphasized the social sciences, I am equally passionate about the natural sciences, particularly biology. My curiosity about the intricacies of life and the natural world drives my commitment to interdisciplinary learning, combining insights from both social and biological sciences to deepen my understanding and contribute meaningfully to these fields."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Benedetta Gasbarra",
     "section": "",
-    "text": "AI Research Project\n\n\n\n\n\n\n\n\n\n\nBias in AI Research Project\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello!\nI’m Benedetta, but I like to go by Benny!\nI am a proud fourth-year undergraduate student at UCLA, majoring in Statistics & Data Science. Alongside my primary field of study, I also hold three associate degrees in General Science, Human and Social Behavioral Science, and Mathematics, reflecting my diverse passions and dedication to learning.\n\nCurriculum Vitae\nInterested in learning more about me? Feel free to download my CV below!\nDOWNLOAD cv\n\n\nEducation\n\nUCLA\nB.A. Statistics and Data Science in progress with expected graduation June 2025\n\n\n\nWork\n\nRussian School Of Mathematics\nTeaching position, June 2023 - current \n\n\nSelfEmployed, Santa Monica\nPrivate Tutor and Coach For Gifted Students, November 2021- Current"
   }
 ]

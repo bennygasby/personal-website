@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/education.html",
+    "items": [
+      "/education/AAGenSci.html",
+      "/education/AAHumSci.html",
+      "/education/AAMath.html",
+      "/education/Certificate.html",
+      "/education/Languages.html",
+      "/education/UCLA.html"
+    ]
+  },
+  {
     "listing": "/Projects.html",
     "items": [
       "/projects/project_1.html",

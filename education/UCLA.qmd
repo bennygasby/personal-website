@@ -1,0 +1,10 @@
+---
+title: "B.A. Statistics and Data Science"
+format: html
+about:
+  template: marquee
+  image: pic_2.jpg
+
+toc: false
+---
+I am currently pursuing studies in statistics and data science, fields that ignite my passion for uncovering insights and solving complex problems. With a deep interest in the power of data to inform decision-making, I am eager to apply my statistical expertise to real-world challenges. My goal is to transition this knowledge into practical applications, particularly as a consultant, where I can help businesses and organizations leverage data-driven strategies for growth and innovation. I am dedicated to continuous learning and excited about the opportunity to make meaningful contributions through analytical thinking and impactful solutions.

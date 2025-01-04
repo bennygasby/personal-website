@@ -1,0 +1,12 @@
+---
+title: "Certificate of Achievement for the California State University General Education"
+format: html
+about:
+  template: marquee
+  image: certificate.png
+
+toc: false
+---
+
+I earned a Certificate of Achievement for the California State University General Education from Santa Monica College, in June 2022, an accomplishment that reflects my passion for learning and my commitment to academic growth. This certificate has allowed me to explore a wide range of subjects, fostering a deep appreciation for interdisciplinary connections and a well-rounded education. The knowledge and perspectives I gained have significantly enriched my understanding of the world and directly complement my current studies in statistics. I am particularly passionate about statistics because of its broad applicability across disciplines, enabling me to connect my diverse interests and contribute meaningfully to solving real-world problems. This foundation continues to inspire my academic and professional journey.
+

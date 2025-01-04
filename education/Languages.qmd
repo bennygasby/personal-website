@@ -1,0 +1,27 @@
+---
+format: html
+about:
+  template: marquee
+  image: languages.jpg
+toc: false
+---
+
+## Language Proficiencies and Skills:
+
+# *Native Italian Speaker*
+
+Born and raised in Rome, Italy, with a deep understanding of Italian language and culture.
+
+# *English Proficiency*
+
+Achieved native-level fluency through extensive study and immersion since childhood.
+Experienced in using English professionally, scholasticaly and in diverse international settings.
+
+# *Intermediate Spanish*
+
+Capable of effective communication in Spanish for both personal and professional purposes.
+Continuously working to enhance my fluency and cultural knowledge.
+
+# *Learning Brazilian Portuguese*
+
+Currently pursuing proficiency in Brazilian Portuguese, inspired by a strong passion for the language and its vibrant culture. Dedicated to achieving fluency through structured study and practical application.

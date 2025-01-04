@@ -1,0 +1,19 @@
+---
+title: "Education and Languages"
+format: html
+toc: true
+listing:
+  - id: education-listing
+    contents: 
+      - "/education/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields: 
+      - title
+    categories: false
+---
+
+:::education-listing
+:::

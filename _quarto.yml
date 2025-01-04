@@ -13,7 +13,11 @@ website:
         
       - href: courses.qmd
         text: Relvant Courses
-      
+        
+      - href: education.qmd
+        text: Education
+        
+
   page-footer:
     center: "© Copyright 2024 Benedetta Gasbarra"      
 
@@ -22,11 +26,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    publihsed-title: "last updated"
-    reference-location: document
-    code-fold: false
-    code-summary: ""
-    fontsize: 1.3em
 
 execute: 
   freeze: auto
