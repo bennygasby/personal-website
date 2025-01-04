@@ -1,0 +1,26 @@
+---
+title: "AI Research Project"
+format: html
+about:
+  template: jolla
+  image: pic_1.jpg
+
+toc: false
+---
+
+### Independent Research supervised by UCLA Faculty 
+data analytics, *October 2024 - current*
+
+### *Research Overview*
+I am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.
+
+
+The research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.
+
+
+Beyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.
+
+
+This research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy.
+
+

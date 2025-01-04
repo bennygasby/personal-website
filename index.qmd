@@ -1,11 +1,55 @@
-href: index.qmd---
-title: "Personal Website"
+---
+title: "Benedetta Gasbarra"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/benedetta-gasbarra-720b381b0/
+    - icon: github
+      text: Github
+      href: https://github.com/bennygasby
+    - text: Email
+      url: "mailto:bennygasby@g.ucla.edu"
+      icon: inbox-fill
 ---
 
-This is a Quarto website.
+**Hello!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+I'm Benedetta, but I like to go by Benny!
+
+
+
+I am a proud fourth-year undergraduate student at UCLA, majoring in Statistics & Data Science. Alongside my primary field of study, I also hold three associate degrees in General Science, Human and Social Behavioral Science, and Mathematics, reflecting my diverse passions and dedication to learning.
+
+# Curriculum Vitae
+Interested in learning more about me? Feel free to download my CV below!
+
+DOWNLOAD [cv](/cv.pdf)
+
+
+# Education 
+
+### *Santa Monica College*
+
+**A.A. General Science**, *June 2021*
+
+**A.A. Human and Social Behavioral Science**, *June 2023*
+
+**A.A. Mathematics**, *January 2025*
+
+### *UCLA*
+
+**B.A. Statistics and Data Science** in progress with expected graduation *June 2025*
+
+
+# Work
+
+### *Russian School Of Mathematics*  
+Teaching position, *June 2023 - current *
+
+### *SelfEmployed, Santa Monica*
+Private Tutor and Coach For Gifted Students, *November 2021- Current *
+

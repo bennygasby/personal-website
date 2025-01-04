@@ -1,0 +1,15 @@
+{
+  "hash": "7d133453ac60aafc6c1dc634a012118d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Project 1\"\nformat: html\n---\n\n\n\nresearch for the AI \n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.1985048 0.9706117 0.1495279 0.2512912 0.9682152 0.2006890 0.1754397\n [8] 0.9835660 0.8710061 0.1582951\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

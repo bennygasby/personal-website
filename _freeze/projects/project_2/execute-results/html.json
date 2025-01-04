@@ -1,0 +1,17 @@
+{
+  "hash": "8270005358452888a1c3bf2da92f64da",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"project_2\"\nformat: html\n---\n\n\n\nresearch for the AI \n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100) |> hist()\n```\n\n::: {.cell-output-display}\n![](project_2_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "project_2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
